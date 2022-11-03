@@ -1,14 +1,14 @@
 ---
 layout: page
-title: AboutMe
+title: about me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
+### Who I am
 
 A place to include any other types of information that you'd like to include about yourself.
+
+### Working experience
 
 ### Contact me
 

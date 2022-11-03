@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Python)Extract n line from the input file
+title: Python extract n line from the input file
 ---
 
 Using a generator, we can process the file reading job more elegantly.
