@@ -10,11 +10,11 @@ I am a software engineer who lives in Tokyo, Japan. I have mixed embedded softwa
 
 ### Work experience
 
-* 2016 ~ 2018: Sony 
-* 2018 ~ 2020: Goldman Sachs
-* 2020 ~ 2021: Google
-* 2021 ~ 2022: Indeed
-* 2022 ~ Present: Apple
+* 2022/07 ~ Present: Software Engineer @Apple
+* 2021/11 ~ 2022/07: Software Engineer @Indeed
+* 2020/08 ~ 2021/11: Software Engineer @Google
+* 2018/02 ~ 2020/08: Software Engineer @Goldman Sachs
+* 2016/04 ~ 2018/02: Software Engineer @Sony
 
 ### Contact me
 
